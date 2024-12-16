@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ibm.rational.test.common.editor.framework.SearchPage">
+		<item key="srch.label.case.default" value="false"/>
+		<item key="srch.label.limit.default" value="false"/>
+		<item key="srch.label.recursive.default" value="true"/>
+		<item key="srch.label.regex.default" value="false"/>
+		<item key="srch.label.select.default" value="false"/>
+	</section>
+	<section name="EDITOR_STATE">
+		<section name="editor-A1EFBB8CC9A95CB0C75DB63362626162">
+			<item key="file" value="L/UISample/Tests/UI.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1EFBB8CC9A95CB0C75DB63362626162"/>
+			</list>
+		</section>
+		<section name="editor-A1EFBB8E0B3D1F80C75DB63362626162">
+			<item key="file" value="L/UISample/Tests/UIWithUpdate.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1EFBB8E0BBF20D2C75DB63362626162"/>
+			</list>
+		</section>
+		<section name="editor-A1EFBB8F0DA9BD43C75DB63362626162">
+			<item key="file" value="L/UISample/Tests/DatasetUIWithUpdate.testsuite"/>
+			<item key="lastEditorViewMode" value="0"/>
+			<list key="lastselection">
+				<item value="A1EFBB96748F4690C75DB63362626162"/>
+			</list>
+			<list key="lastFieldSelection">
+				<item value="_FIELD_LT.loop.iterations"/>
+				<item value="1"/>
+				<item value="1"/>
+			</list>
+		</section>
+	</section>
+	<section name="last.test.options.tab">
+		<section name="editor-A1EFBB8CC9A95CB0C75DB63362626162">
+		</section>
+		<section name="editor-A1EFBB8E0B3D1F80C75DB63362626162">
+		</section>
+		<section name="editor-A1EFBB8F0DA9BD43C75DB63362626162">
+		</section>
+	</section>
+	<section name="sync-points">
+		<item key="size" value="0"/>
+	</section>
+</section>

@@ -1,0 +1,116 @@
+!SESSION 2024-12-16 14:32:48.475 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=17.0.10+7
+JRE 17 Windows 11 amd64-64-Bit Compressed References 20240116_624 (JIT enabled, AOT enabled)
+OpenJ9   - 2c3d78b48
+OMR      - ea8124dbc
+JCL      - 2aad089841f based on jdk-17.0.10+7
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product com.ibm.rational.rft.product.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rft.product.ide
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-12-16 14:33:08.383
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\karthick_ba'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.ibm.rational.test.lt.server 1 0 2024-12-16 14:33:15.021
+!MESSAGE RPTS1518I DS_OUT: Started dataset service C:\Program Files\HCL\DevOpsTest\jdk\bin\java.exe, -jar, C:\Program Files\HCL\DevOpsTest\..\HCLIMShared\plugins\com.ibm.rational.test.lt.server_1.4.900.v20240607_1345\datasets\datasets-service.jar, --spring.profiles.active=wb, --server.port=7081, --server.address=127.0.0.1, --dataset.service.exitdetect=true
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-12-16 14:34:42.340
+!MESSAGE RPTTI0001 Test generation started at Mon Dec 16 14:34:42 IST 2024 -- input:  UI.recsession
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-12-16 14:34:45.091
+!MESSAGE RPTTI0002 Test generation completed at Mon Dec 16 14:34:45 IST 2024 -- output:  UI.testsuite
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:36:13.597
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:36:13.597
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 14:36:15.029
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UI.7453830995236123389
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-12-16 14:43:42.008
+!MESSAGE RPTTI0001 Test generation started at Mon Dec 16 14:43:42 IST 2024 -- input:  UIWithUpdate.recsession
+
+!ENTRY com.ibm.rational.test.lt.testgen.core3 1 0 2024-12-16 14:43:43.798
+!MESSAGE RPTTI0002 Test generation completed at Mon Dec 16 14:43:43 IST 2024 -- output:  UIWithUpdate.testsuite
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:45:05.239
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:45:05.239
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 14:45:06.949
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UIWithUpdate.12936099090740193970
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:50:29.800
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 14:50:29.802
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 14:50:31.495
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UIWithUpdate.9828466439798310668
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:36:24.799
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:36:24.801
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:36:26.484
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.DatasetUIWithUpdate.16793720167049196713
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:37:36.369
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:37:36.373
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:37:38.029
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UI.10900341821011532280
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:39:09.244
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:39:09.247
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:39:11.008
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.UIWithUpdate.4173034779003380235
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:40:50.668
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:40:50.668
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:40:52.413
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.DatasetUIWithUpdate.6268918333507221404
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:48:43.448
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:48:43.448
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:48:45.067
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.DatasetUIWithUpdate.8797127362804610603
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:55:57.655
+!MESSAGE RPTR0000W ALOHA STOP for null
+
+!ENTRY com.ibm.rational.test.lt.execution.extension 2 0 2024-12-16 15:55:57.655
+!MESSAGE RPTR0000W XMLAlohaTypedEventLoader setStatus HISTORY_COMPLETE for null
+
+!ENTRY com.ibm.rational.test.lt.execution 1 0 2024-12-16 15:55:59.178
+!MESSAGE RPTJ1000E Cleaning working directory C:\Users\karthick_ba\AppData\Local\Temp\rpt.DatasetUIWithUpdate.14543320828633966452
+
+!ENTRY org.eclipse.e4.ui.workbench.swt 1 0 2024-12-16 16:03:01.142
+!MESSAGE Saving dialog settings

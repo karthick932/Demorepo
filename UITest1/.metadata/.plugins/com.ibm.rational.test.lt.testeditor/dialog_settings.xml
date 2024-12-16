@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="customcode">
+		<item key="defpkg" value="customcode"/>
+	</section>
+	<section name="A1EFBB8CC9A95CB0C75DB63362626162">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1EFBB8E0B3D1F80C75DB63362626162">
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="A1EFBB8F0DA9BD43C75DB63362626162">
+		<item key="count" value="1"/>
+		<item key="0" value="A1EFBB95232715E0C75DB63362626162"/>
+		<section name="ShowDatapoolCandidatesDialog">
+			<item key="show_candidates" value="true"/>
+		</section>
+	</section>
+	<section name="defaultBuiltinDataSourceSelection">
+		<section name="bids.current.time">
+		</section>
+		<section name="bids.current.date">
+		</section>
+		<section name="bids.random.number">
+		</section>
+		<section name="bids.sequence.number">
+		</section>
+	</section>
+	<section name="com.ibm.rational.test.lt.testeditor.common.DatasourceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="627"/>
+		<item key="DIALOG_Y_ORIGIN" value="11"/>
+		<item key="DIALOG_WIDTH" value="688"/>
+		<item key="DIALOG_HEIGHT" value="1008"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="dialogs">
+		<section name="com.ibm.rational.test.lt.testeditor.common.ColumnSelectionWizard">
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="820"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+		<section name="com.ibm.rational.test.lt.testeditor.common.DatapoolSelectionWizard">
+			<item key="DIALOG_WIDTH" value="875"/>
+			<item key="DIALOG_HEIGHT" value="782"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

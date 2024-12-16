@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="csv">
+		<section name="/UISample/Datasets/Dataset1.csv">
+			<item key="stamp" value="100"/>
+			<item key="name" value="Dataset1.csv"/>
+			<item key="description" value="data set"/>
+			<item key="variables" value="1"/>
+			<section name="col0">
+				<item key="number" value="0"/>
+				<item key="name" value="Quantity"/>
+				<item key="encrypted" value="false"/>
+			</section>
+		</section>
+	</section>
+</section>
